@@ -81,6 +81,10 @@ header {
   cursor: pointer;
 }
 
+button:hover {
+ color: #fff7e1 
+}
+
 .hero-image {
   flex: 1;
   min-width: 280px;
