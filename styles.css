@@ -82,7 +82,8 @@ header {
 }
 
 button:hover {
- color: #fff7e1 
+ color: #fff7e1;
+ background-color: #003366;
 }
 
 .hero-image {
